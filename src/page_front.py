@@ -4,7 +4,7 @@ import streamlit as st
 def front():
 
     text = """
-            # ¡Oh, un modelo de ML, vamos a desplegarlo! - Machine learning para adultos 
+            # ¡Oh, un modelo de ML, vamos a desplegarlo! - Machine learning para todos los públicos 
             
             ¡Enhorabuena por llegar a uno de los talleres más molones de Spain AI 2022!
             
